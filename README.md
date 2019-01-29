@@ -13,3 +13,9 @@ paychex_Profile related features.ipynb ---- Load datam process and create profil
 
 Cluster.ipynb ---- Apply KNN to behavior features
 
+using model for feature selection.ipynb	 ---- Get feature importance using XGBoost to select useful features
+
+xgboost.ipynb ---- Try out XGBoost model
+
+xgboost modeling with proper upsampling.ipynb ---- To avoid information leaks, we first split the dataset into a training dataset and test dataset, then upsample in the training set and keep the test set at the original size
+
