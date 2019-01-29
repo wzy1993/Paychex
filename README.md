@@ -1,9 +1,21 @@
-# Paychex
-Capstone project
+
+# Paychex capstone project
+# Background and Goals：
+
+
+
+Paychex has over 600,000 clients to which it provides HR software. During usage of Paychex systems and services, some clients will report having issues. To provide better service and prevent issues, Paychex is looking for the underlying causes. Paychex has gathered a sample containing one month of client transactions, and marked whether or not each client has indicated an issue.
+
+Objective 1: Predict whether or not a client will have an issue 
+
+Objective 2: Through the prediction, identify root causes and problematic events, and provide insight into what can be improved
+
 
 
 As requested by Paychex, the data for this project is not allowed to be posted online.
 The Powerpoint file(FinalPresentation1127.pptx) contains the slides we used for final presentation. Key findings and models are summarized.
+
+# files:
 
 FinalPresentation1127.pptx ---- Final presentation slides
 
